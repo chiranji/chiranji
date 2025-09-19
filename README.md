@@ -2,6 +2,15 @@
 <p>A passionate Fullstack developer from India</p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Other            6 hrs 1 min     ██████████████████████▓░░   90.60 %
+Vue.js           20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+PHP              10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+SQL              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Bash             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+```
+
 <!--END_SECTION:waka-->
 
 
