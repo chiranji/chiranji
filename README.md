@@ -2,9 +2,7 @@
 <p>A passionate Fullstack developer from India</p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2031%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -33,7 +31,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiranji/chiranji/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 18:43:55 UTC
+ Last Updated on 03/10/2025 18:44:50 UTC
 <!--END_SECTION:waka-->
 
 
